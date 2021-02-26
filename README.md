@@ -1,3 +1,1 @@
-# react-land
-
-Landing page wireframe in React.js
+# react-land- Landing page wireframe in React.js
