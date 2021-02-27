@@ -49,9 +49,10 @@ body {
 }
 
 .footer-div {
-  height: auto;
+  height: 98px;
   width: auto;
-  text-align: right;
+  text-align: center;
+  clear: both;
 }
 
 h1,
@@ -60,3 +61,4 @@ h2,
 h3 {
   text-align: center;
 }
+
